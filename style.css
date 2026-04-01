@@ -83,3 +83,4 @@ footer {
     opacity: 0.75;
 }
 
+.comments {width:100%;display: flex;display: inline-block;margin-top: 3rem;}
