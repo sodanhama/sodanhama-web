@@ -9,4 +9,4 @@ I used simple HTML and CSS to make this website, using flex box as display to pr
 Thanks for checking out my project!
 
 Project screenshot: 
-!(Project screenshot)[https://hel1.your-objectstorage.com/hackclub-jackpot-attachments/journal-images/597/11c46182-4422-4d4a-a29b-5e3685025c0b.png]
+![Project screenshot](https://hel1.your-objectstorage.com/hackclub-jackpot-attachments/journal-images/597/11c46182-4422-4d4a-a29b-5e3685025c0b.png)
